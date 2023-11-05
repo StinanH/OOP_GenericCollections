@@ -1,0 +1,14 @@
+C:\Users\Stina\source\repos\StinanH\OOP-GenericCollections\OOP-GenericCollections\obj\Debug\net6.0\OOP-GenericCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stina\source\repos\StinanH\OOP-GenericCollections\OOP-GenericCollections\obj\Debug\net6.0\OOP-GenericCollections.AssemblyInfoInputs.cache
+C:\Users\Stina\source\repos\StinanH\OOP-GenericCollections\OOP-GenericCollections\obj\Debug\net6.0\OOP-GenericCollections.AssemblyInfo.cs
+C:\Users\Stina\source\repos\StinanH\OOP-GenericCollections\OOP-GenericCollections\obj\Debug\net6.0\OOP-GenericCollections.csproj.CoreCompileInputs.cache
+C:\Users\Stina\source\repos\StinanH\OOP-GenericCollections\OOP-GenericCollections\bin\Debug\net6.0\OOP-GenericCollections.exe
+C:\Users\Stina\source\repos\StinanH\OOP-GenericCollections\OOP-GenericCollections\bin\Debug\net6.0\OOP-GenericCollections.deps.json
+C:\Users\Stina\source\repos\StinanH\OOP-GenericCollections\OOP-GenericCollections\bin\Debug\net6.0\OOP-GenericCollections.runtimeconfig.json
+C:\Users\Stina\source\repos\StinanH\OOP-GenericCollections\OOP-GenericCollections\bin\Debug\net6.0\OOP-GenericCollections.dll
+C:\Users\Stina\source\repos\StinanH\OOP-GenericCollections\OOP-GenericCollections\bin\Debug\net6.0\OOP-GenericCollections.pdb
+C:\Users\Stina\source\repos\StinanH\OOP-GenericCollections\OOP-GenericCollections\obj\Debug\net6.0\OOP-GenericCollections.dll
+C:\Users\Stina\source\repos\StinanH\OOP-GenericCollections\OOP-GenericCollections\obj\Debug\net6.0\refint\OOP-GenericCollections.dll
+C:\Users\Stina\source\repos\StinanH\OOP-GenericCollections\OOP-GenericCollections\obj\Debug\net6.0\OOP-GenericCollections.pdb
+C:\Users\Stina\source\repos\StinanH\OOP-GenericCollections\OOP-GenericCollections\obj\Debug\net6.0\OOP-GenericCollections.genruntimeconfig.cache
+C:\Users\Stina\source\repos\StinanH\OOP-GenericCollections\OOP-GenericCollections\obj\Debug\net6.0\ref\OOP-GenericCollections.dll
